@@ -1,5 +1,3 @@
-<body style = "background-image: url(https://gist.githubusercontent.com/brettlangdon/85942af…/raw/2a7409c…/B1lMORS%2520-%2520Imgur.jpg)">
-  
 
 <h1 align="center">Deniz Ilgın Koca</h1>
 <h3 align="center">Information Systems Engineering Student</h3>
@@ -24,6 +22,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizilgin&show_icons=true&theme=onedark&title_color=f56200&text_color=ff6600&locale=en&layout=compact" alt="denizilgin" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denizilgin&theme=dark" alt="denizilgin" /></p>
-
-
-</body>
