@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizilgin&show_icons=true&theme=onedark&title_color=f56200&text_color=ff6600&locale=en&layout=compact" alt="denizilgin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denizilgin&theme=dark" alt="denizilgin" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denizilgin&theme=dark" alt="denizilgin" />
