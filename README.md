@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **denizilginkoca@gmail.com**
 
-- 👾 Working with <a href = "https://instagram.com/d.nzllgn" **Dyrix Games**</a>
+- 👾 Working with <a href = "https://instagram.com/d.nzllgn"*</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
