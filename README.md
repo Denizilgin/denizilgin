@@ -1,3 +1,8 @@
+<style>
+p {
+  background-image: url('https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/B1lMORS%2520-%2520Imgur.jpg');
+}
+</style>
 <h1 align="center">Deniz Ilgın Koca</h1>
 <h3 align="center">Information Systems Engineering Student</h3>
 
@@ -9,7 +14,7 @@
 
 - 📫 How to reach me **denizilginkoca@gmail.com**
 
-- 👾 Working with <a href="https://instagram.com/d.nzllgn" target="blank">Dyrix Games</a>
+- 👾 Working on <a href="https://instagram.com/dyrixgames" target="blank">Dyrix Games</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
