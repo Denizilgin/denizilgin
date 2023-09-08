@@ -8,6 +8,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=denizilgin&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=denizilgin&show_icons=true" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=denizilgin&layout=compact" />
+  <source srcset = "src="https://github-readme-stats.vercel.app/api?username=denizilgin&show_icons=true"
+  />
+ 
 </picture>
