@@ -6,7 +6,7 @@
 
 - 🧙‍♂️ I'm trying to master **C# , Unity**
 
-- 🥷 I'm interesting in **Html, Css, Javascript**
+- 🥷 I'm interested in **Html, Css, Javascript**
 
 - 📫 How to reach me **denizilginkoca@gmail.com**
 
