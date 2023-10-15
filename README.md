@@ -10,7 +10,10 @@
 
 - 📫 How to reach me **denizilginkoca@gmail.com**
 
-- 👾 Working on <a href="https://dyrixgames.itch.io/" target="blank">Dyrix Games</a>
+- 👾 Working on <a href="https://instagram.com/dyrixgames" target="blank">Dyrix Games</a>
+
+My projects
+<a href="https://dyrixgames.itch.io/" target="blank">Dyrix Games Projects</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
